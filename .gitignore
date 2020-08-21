@@ -21,3 +21,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#Additional added files which can arise in further implementations
+/shelf/
+/.idea/workspace.xml
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
+.DS_Store
+target/
+/.idea
